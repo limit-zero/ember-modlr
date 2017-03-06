@@ -1,5 +1,7 @@
 # ember-modlr
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/limit-zero/ember-modlr.svg)](https://greenkeeper.io/)
+
 This addon adds [modlr](https://github.com/as3io/modlr) support to ember projects.
 
 ## Installation
