@@ -1,1 +1,1 @@
-export { default } from 'ember-modlr-auth/services/model-query';
+export { default } from 'ember-modlr/services/model-query';

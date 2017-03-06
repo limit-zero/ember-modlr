@@ -1,1 +1,1 @@
-export { default } from 'ember-modlr-auth/serializers/application';
+export { default } from 'ember-modlr/serializers/application';

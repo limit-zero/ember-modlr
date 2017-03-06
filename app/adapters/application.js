@@ -1,1 +1,1 @@
-export { default } from 'ember-modlr-auth/adapters/application';
+export { default } from 'ember-modlr/adapters/application';
